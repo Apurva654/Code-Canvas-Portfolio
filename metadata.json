@@ -1,0 +1,5 @@
+{
+  "name": "Code Canvas Portfolio Builder",
+  "description": "A professional portfolio development tool for the Digital VJTI Code Canvas competition, featuring React, Tailwind CSS, and Motion animations.",
+  "requestFramePermissions": []
+}
